@@ -1,4 +1,3 @@
-! Fixed looks pretty bad big, but it is pretty nice small, and I like small. Was previously using Tamsyn 7x9.
 URxvt.font: xft:ProFontWindows:pixelsize=12,\
             xft:unifont:pixelsize=9:antialias=false
 
